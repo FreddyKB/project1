@@ -1,0 +1,21 @@
+.main {
+    width: 100%;
+    height: 100dvh;
+}
+.section {
+    text-align: center;
+    width: 300px;
+    margin: 10rem auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 1rem;
+}
+.btn {
+    border: none;
+    padding: 5px 10px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 5px;
+}
